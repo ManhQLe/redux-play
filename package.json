@@ -1,0 +1,27 @@
+{
+  "name": "redux-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManhQLe/redux-play.git"
+  },
+  "keywords": [
+    "redux",
+    "playground"
+  ],
+  "author": "Manh Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManhQLe/redux-play/issues"
+  },
+  "homepage": "https://github.com/ManhQLe/redux-play#readme"
+}
